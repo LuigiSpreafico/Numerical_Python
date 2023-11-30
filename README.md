@@ -6,7 +6,7 @@
   <ol>
     <li><a href="#the-goal">The goal</a></li>
     <li><a href="#the-software">The Software</a></li>
-    <li><a href="#Schrodinger-Equation---1D-Infinite-Well-Problem">Schrodinger Equation - 1D Infinite Well Problem</a></li>
+    <li><a href="#Schrodinger-Equation-1D-Infinite-Well-Problem">Schrodinger Equation - 1D Infinite Well Problem</a></li>
   </ol>
 </details>
 
