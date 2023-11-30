@@ -19,4 +19,8 @@ The projects use:
 * Numpy; versão: 1.24.3
 
 # SchrodingerEquation_infinite_potential_well
-This program aims to show the analitical solution the quantum mechanical problem of the one-dimensional infinite potential well and compare to a numerical solution.
+This program aims:
+* To solve the quantum mechanical problem of the one-dimensional infinite potential well.
+* Show the analitical solution.
+* Show the numerical solution.
+* Compare the analitical and the numerical solutions.
