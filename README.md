@@ -15,8 +15,12 @@ The goal is to make the computer modeling of various problems and compare them t
 
 # The Software
 The projects use:
-* Python; version: 3.11.5
-* Numpy; versão: 1.24.3
+* Python; version: 3.11.8
+* NumPy; versão: 1.24.3
+* SciPy; versão: 1.12.0
+* Matplotlib; versão: 3.8.0
+* SymPy; versão: 1.12
+* Numba; versão: 0.59.1
 
 # SchrodingerEquation_infinite_potential_well
 This program aims:
